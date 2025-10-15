@@ -17,13 +17,10 @@ SQL, Power BI, Excel, Tableau | Business Analytics | Badminton Enthusiast
 
 ## 🛠️ Skills
 
-- Python (Pandas, NumPy, Matplotlib, Seaborn)
 - SQL (MySQL, PostgreSQL)
 - Excel (Advanced formulas, Pivot Tables)
 - Power BI & Tableau (Dashboarding, Visualization)
 - Data Analysis & Financial modeling
-- Cloud Platforms (Azure, basics)
-- Linux (basic scripting)
 - Business & Sales Analysis
 
 ---
